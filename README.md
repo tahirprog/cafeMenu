@@ -1,2 +1,1 @@
-freeCodeCamp
-# Live Preview:
+# By freeCodeCamp
